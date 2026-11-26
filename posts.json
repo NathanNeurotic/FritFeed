@@ -1,5 +1,16 @@
 [
   {
+    "number": 23,
+    "caption": "Made a kite out of a maple leaf. It flew on the fan’s lowest setting, which is good, because the next setting is called “find out where the kite went.” 🍁",
+    "date": "2026-11-26",
+    "title": "Maple-leaf kite",
+    "alt": "Frit watches a maple-leaf kite fly in the breeze from a brass desk fan.",
+    "image": "assets/23.webp",
+    "width": 1050,
+    "height": 1050,
+    "scheduledFor": "2026-11-26T20:10:00Z"
+  },
+  {
     "number": 22,
     "caption": "Unearthed a marble in the sidewalk. Preliminary dating: sometime before the last time anyone swept.",
     "date": "2026-11-26",
