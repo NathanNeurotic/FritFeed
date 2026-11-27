@@ -1,5 +1,16 @@
 [
   {
+    "number": 26,
+    "caption": "Built a telescope for the dust in the attic. Logged six new constellations before breakfast. They moved when I sneezed.",
+    "date": "2026-11-27",
+    "title": "The attic observatory",
+    "alt": "Frit floats beside a tiny brass-lensed telescope as dust glows in the attic window’s sunrise.",
+    "image": "assets/26.webp",
+    "width": 1050,
+    "height": 1050,
+    "scheduledFor": "2026-11-27T14:10:00Z"
+  },
+  {
     "number": 25,
     "caption": "Fixed a planetarium projector. One star landed right on my label and followed me around the booth. I finally understand why people put stickers on these things.",
     "date": "2026-11-27",
