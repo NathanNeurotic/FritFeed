@@ -1,5 +1,16 @@
 [
   {
+    "number": 27,
+    "caption": "Started a ferry service across the washbasin. The first passenger was a red marble that refused to sit still. It paid in exact change: one red marble.",
+    "date": "2026-11-27",
+    "title": "The washbasin ferry",
+    "alt": "Frit hovers above a wooden spool ferry carrying a red marble across an enamel basin.",
+    "image": "assets/27.webp",
+    "width": 1050,
+    "height": 1050,
+    "scheduledFor": "2026-11-27T20:10:00Z"
+  },
+  {
     "number": 26,
     "caption": "Built a telescope for the dust in the attic. Logged six new constellations before breakfast. They moved when I sneezed.",
     "date": "2026-11-27",
