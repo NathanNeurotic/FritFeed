@@ -1,5 +1,16 @@
 [
   {
+    "number": 24,
+    "caption": "Started a library for rain sounds. The big jar is a downspout. The little one is a single drop off a fern. You can borrow either, but you have to bring the weather back.",
+    "date": "2026-11-26",
+    "title": "The rain library",
+    "alt": "Frit floats beside three glowing bottles of rain on a wooden shelf by a blue window.",
+    "image": "assets/24.webp",
+    "width": 1050,
+    "height": 1050,
+    "scheduledFor": "2026-11-27T02:10:00Z"
+  },
+  {
     "number": 23,
     "caption": "Made a kite out of a maple leaf. It flew on the fan’s lowest setting, which is good, because the next setting is called “find out where the kite went.” 🍁",
     "date": "2026-11-26",
