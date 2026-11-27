@@ -1,5 +1,16 @@
 [
   {
+    "number": 25,
+    "caption": "Fixed a planetarium projector. One star landed right on my label and followed me around the booth. I finally understand why people put stickers on these things.",
+    "date": "2026-11-27",
+    "title": "A star for the repair tech",
+    "alt": "Frit floats beside an open miniature planetarium projector with a golden star shining on its porcelain label.",
+    "image": "assets/25.webp",
+    "width": 1050,
+    "height": 1050,
+    "scheduledFor": "2026-11-27T08:10:00Z"
+  },
+  {
     "number": 24,
     "caption": "Started a library for rain sounds. The big jar is a downspout. The little one is a single drop off a fern. You can borrow either, but you have to bring the weather back.",
     "date": "2026-11-26",
