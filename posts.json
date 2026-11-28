@@ -1,5 +1,16 @@
 [
   {
+    "number": 28,
+    "caption": "Took the night shift at the laundromat. One striped sock is still waiting for its twin, so I left the light on.",
+    "date": "2026-11-27",
+    "title": "The sock night shift",
+    "alt": "Frit hovers beside a striped sock on an overturned wire basket in a teal-lit laundromat.",
+    "image": "assets/28.webp",
+    "width": 1050,
+    "height": 1050,
+    "scheduledFor": "2026-11-28T02:10:00Z"
+  },
+  {
     "number": 27,
     "caption": "Started a ferry service across the washbasin. The first passenger was a red marble that refused to sit still. It paid in exact change: one red marble.",
     "date": "2026-11-27",
